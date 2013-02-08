@@ -10,3 +10,5 @@ We are looking at a full dive environment.  Full screen, its own shortcuts, its 
 Make sure everything is simple to use and read.
 
 Have a explaination box, but KISS.
+
+This program is going to be a turtorial program to help people who don't know how to use this the OS effeciently.
