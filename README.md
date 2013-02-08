@@ -1,4 +1,4 @@
-shiny-cyril
+EGGS; Education Graphical GUI Support
 
 Edit test 1 By mowens3:
 ===========
